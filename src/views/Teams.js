@@ -34,19 +34,25 @@ function Teams() {
                       <i className="nc-icon nc-laptop  text-warning" />
                     </div>
                   </Col>
+                  
                   <Col md="8" xs="7">
+                  <a href="CollegeTeam">
                     <div className="numbers">
                       <p className="card-category">College and Career Readiness</p>
                       <p />
                     </div>
+                    </a>
                   </Col>
+                 
                 </Row>
               </CardBody>
               <CardFooter>
                 <hr />
+                <a href="CollegeTeam">
                 <div className="stats">
                   <i className="fas fa-info-circle" /> Learn More
                 </div>
+                </a>
               </CardFooter>
             </Card>
           </Col>
@@ -60,11 +66,13 @@ function Teams() {
                     </div>
                   </Col>
                   <Col md="8" xs="7">
+                  <a href="Civic">
                     <div className="numbers">
                       <p className="card-category">Civic and Community Engagement
-</p>
+                    </p>
                       <p />
                     </div>
+                    </a>
                   </Col>
                 </Row>
               </CardBody>
