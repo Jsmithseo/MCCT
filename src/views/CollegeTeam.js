@@ -34,10 +34,11 @@ function CollegeTeam() {
             </Card>
             <Card>
               <CardHeader>
-                <CardTitle tag="h4">Resources</CardTitle>
+                <CardTitle tag="h4">Chat</CardTitle>
               </CardHeader>
               <CardBody>
                 <ul className="list-unstyled team-members">
+
                   <li>
                     <Row>
                       <Col md="2" xs="2">
@@ -53,39 +54,7 @@ function CollegeTeam() {
                         </div>
                       </Col>
                       <Col md="7" xs="7">
-                      College and Career Readiness  <br />
-                        <span className="text-muted">
-                          <small>Offline</small>
-                        </span>
-                      </Col>
-                      <Col className="text-right" md="3" xs="3">
-                        <Button
-                          className="btn-round btn-icon"
-                          color="success"
-                          outline
-                          size="sm"
-                        >
-                          <i className="fa fa-envelope" />
-                        </Button>
-                      </Col>
-                    </Row>
-                  </li>
-                  <li>
-                    <Row>
-                      <Col md="2" xs="2">
-                        <div className="avatar">
-                          <img
-                            alt="..."
-                            className="img-circle img-no-padding img-responsive"
-                            src={
-                              require("assets/img/default-avatar.png")
-                                .default
-                            }
-                          />
-                        </div>
-                      </Col>
-                      <Col md="7" xs="7">
-                      Educational Support<br />
+                      John Doe<br />
                         <span className="text-success">
                           <small>Available</small>
                         </span>
@@ -117,7 +86,7 @@ function CollegeTeam() {
                         </div>
                       </Col>
                       <Col className="col-ms-7" xs="7">
-                      Family Needs <br />
+                      Jane Smith <br />
                         <span className="text-danger">
                           <small>Busy</small>
                         </span>
