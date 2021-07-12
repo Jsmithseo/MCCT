@@ -29,16 +29,16 @@ function Teams() {
             <Card className="card-stats">
               <CardBody>
                 <Row>
-                  <Col md="4" xs="5">
+                  <Col md="4" xs="6">
                     <div className="icon-big text-center icon-warning">
                       <i className="nc-icon nc-laptop  text-warning" />
                     </div>
                   </Col>
                   
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="10">
                   <a href="CollegeTeam">
                     <div className="numbers">
-                      <p className="card-category">College and Career Readiness</p>
+                      <p className="card-category">College and Career</p>
                       <p />
                     </div>
                     </a>
@@ -60,15 +60,15 @@ function Teams() {
             <Card className="card-stats">
               <CardBody>
                 <Row>
-                  <Col md="4" xs="5">
+                  <Col md="4" xs="3">
                     <div className="icon-big text-center icon-warning">
                       <i className="nc-icon nc-globe-2 text-success" />
                     </div>
                   </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="10">
                   <a href="Civic">
                     <div className="numbers">
-                      <p className="card-category">Civic and Community Engagement
+                      <p className="card-category">Community
                     </p>
                       <p />
                     </div>
@@ -93,7 +93,7 @@ function Teams() {
                       <i className="nc-icon nc-delivery-fast text-danger" />
                     </div>
                   </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="10">
                     <div className="numbers">
                       <p className="card-category">Crisis Care</p>
                       <p />
@@ -113,14 +113,14 @@ function Teams() {
             <Card className="card-stats">
               <CardBody>
                 <Row>
-                  <Col md="4" xs="5">
+                  <Col md="4" xs="3">
                     <div className="icon-big text-center icon-warning">
                       <i className="nc-icon nc-ruler-pencil text-primary" />
                     </div>
                   </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="10">
                     <div className="numbers">
-                      <p className="card-category">Educational Support</p>
+                      <p className="card-category">Education</p>
                       <p />
                     </div>
                   </Col>
@@ -145,7 +145,7 @@ function Teams() {
                       <i className="nc-icon nc-favourite-28  text-warning" />
                     </div>
                   </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="10">
                     <div className="numbers">
                       <p className="card-category">Family needs</p>
                       <p />
@@ -170,9 +170,9 @@ function Teams() {
                       <i className="nc-icon nc-support-17 text-danger" />
                     </div>
                   </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="10">
                     <div className="numbers">
-                      <p className="card-category">Mental Health and Wellness</p>
+                      <p className="card-category">Mental Health</p>
                       <p />
                     </div>
                   </Col>
@@ -195,9 +195,9 @@ function Teams() {
                       <i className="nc-icon nc-glasses-2 text-primary" />
                     </div>
                   </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="10">
                     <div className="numbers">
-                      <p className="card-category">Senior and Disability Support</p>
+                      <p className="card-category">Seniors</p>
                       <p />
                     </div>
                   </Col>
