@@ -28,9 +28,7 @@ function Dashboard() {
             <Card className="card-stats">
               <CardBody>
                 <Row>
-                  <Col md="4" xs="5">
-                  </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="12">
                     <div className="numbers">
                       <p className="card-category">Claimants</p>
                       <p />
@@ -50,9 +48,7 @@ function Dashboard() {
             <Card className="card-stats">
               <CardBody>
                 <Row>
-                  <Col md="4" xs="5">
-                  </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="12">
                     <div className="numbers">
                       <p className="card-category">Claims</p>
                       <p />
@@ -72,9 +68,7 @@ function Dashboard() {
             <Card className="card-stats">
               <CardBody>
                 <Row>
-                  <Col md="4" xs="5">
-                  </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="12">
                     <div className="numbers">
                       <p className="card-category">Messages</p>
                       <p />
