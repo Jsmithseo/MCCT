@@ -139,9 +139,8 @@ function CollegeTeam() {
                   <Row>
                     <Col md="12">
                       <FormGroup>
-                        <label>Email</label>
+                        <label>Email Adress</label>
                         <Input
-                          defaultValue=""
                           placeholder="Email Address"
                           type="text"
                         />
