@@ -138,12 +138,12 @@ function Dashboard() {
             <Card className="card-stats">
               <CardBody>
                 <Row>
-                  <Col md="4" xs="5">
+                  <Col md="4" xs="2">
                     <div className="icon-big text-center icon-warning">
                       <i className="nc-icon nc-money-coins text-success" />
                     </div>
                   </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="8">
                     <div className="numbers">
                       <p className="card-category">Donations</p>
                       <CardTitle tag="p">$ 0</CardTitle>
@@ -190,12 +190,12 @@ function Dashboard() {
             <Card className="card-stats">
               <CardBody>
                 <Row>
-                  <Col md="4" xs="5">
+                  <Col md="4" xs="3">
                     <div className="icon-big text-center icon-warning">
                       <i className="nc-icon nc-favourite-28 text-primary" />
                     </div>
                   </Col>
-                  <Col md="8" xs="7">
+                  <Col md="8" xs="9">
                     <div className="numbers">
                       <p className="card-category">Followers</p>
                       <CardTitle tag="p">0</CardTitle>

@@ -55,7 +55,13 @@
 // html to react differences
 @import "paper-dashboard/react/react-differences.scss";
 
-
+// Over rides
 .sidebar[data-color="black"]:after, .off-canvas-sidebar[data-color="black"]:after {
     background-color: #2570AF!important;
+}
+
+
+.card-stats .icon-big {
+    font-size: 2em!important;
+    min-height: 64px;
 }
