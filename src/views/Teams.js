@@ -25,7 +25,7 @@ function Teams() {
     <>
       <div className="content">
       <Row>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="3" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -56,7 +56,7 @@ function Teams() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="3" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -84,7 +84,7 @@ function Teams() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -109,7 +109,7 @@ function Teams() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -136,7 +136,7 @@ function Teams() {
           </Col>
         </Row>
         <Row>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -161,7 +161,7 @@ function Teams() {
               </CardFooter>
             </Card>
             </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -186,7 +186,7 @@ function Teams() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>

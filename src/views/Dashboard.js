@@ -24,7 +24,7 @@ function Dashboard() {
     <>
       <div className="content">
       <Row>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -46,7 +46,7 @@ function Dashboard() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -68,7 +68,7 @@ function Dashboard() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -90,7 +90,7 @@ function Dashboard() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -114,7 +114,7 @@ function Dashboard() {
           </Col>
         </Row>
         <Row>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -140,7 +140,7 @@ function Dashboard() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -166,7 +166,7 @@ function Dashboard() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
@@ -192,7 +192,7 @@ function Dashboard() {
               </CardFooter>
             </Card>
           </Col>
-          <Col lg="3" md="6" sm="6">
+          <Col lg="3" md="6" sm="6" xs="6">
             <Card className="card-stats">
               <CardBody>
                 <Row>
