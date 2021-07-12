@@ -173,7 +173,7 @@ function User() {
                       <FormGroup>
                         <label>First Name</label>
                         <Input
-                          placeholder="Company"
+                          placeholder="First Name"
                           type="text"
                         />
                       </FormGroup>
@@ -191,9 +191,8 @@ function User() {
                   <Row>
                     <Col md="12">
                       <FormGroup>
-                        <label>Email</label>
+                        <label>Email Address</label>
                         <Input
-                          defaultValue=""
                           placeholder="Email Address"
                           type="text"
                         />
