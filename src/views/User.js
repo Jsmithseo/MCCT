@@ -35,7 +35,6 @@ import {
 
 function User() {
   return (
-    <>
       <div className="content">
         <Row>
           <Col md="4">
@@ -244,7 +243,6 @@ function User() {
           </Col>
         </Row>
       </div>
-    </>
   );
 }
 

@@ -17,7 +17,6 @@ import {
 
 function CollegeTeam() {
   return (
-    <>
       <div className="content">
         <Row>
           <Col md="4">
@@ -192,7 +191,6 @@ function CollegeTeam() {
           </Col>
         </Row>
       </div>
-    </>
   );
 }
 

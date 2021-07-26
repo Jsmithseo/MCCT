@@ -31,7 +31,6 @@ import {
 
 function Tables() {
   return (
-    <>
       <div className="content">
         <Row>
           <Col md="12">
@@ -100,7 +99,6 @@ function Tables() {
 
         </Row>
       </div>
-    </>
   );
 }
 

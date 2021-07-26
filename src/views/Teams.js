@@ -22,7 +22,6 @@ import {
 
 function Teams() {
   return (
-    <>
       <div className="content">
       <Row>
           <Col lg="3" md="6" sm="3" xs="6">
@@ -288,7 +287,6 @@ function Teams() {
           </Col>
           </Row>
       </div>
-    </>
   );
 }
 

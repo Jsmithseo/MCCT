@@ -188,15 +188,12 @@ const MapWrapper = () => {
     });
   });
   return (
-    <>
       <div style={{ height: `100%` }} ref={mapRef}></div>
-    </>
   );
 };
 
 function Map() {
   return (
-    <>
       <div className="content">
         <Row>
           <Col md="12">
@@ -215,7 +212,6 @@ function Map() {
           </Col>
         </Row>
       </div>
-    </>
   );
 }
 

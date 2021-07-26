@@ -7,7 +7,6 @@ import {
 
 function Senior() {
   return (
-    <>
       <div className="content">
         <Row>
           <Col md="12">
@@ -19,7 +18,6 @@ function Senior() {
           </Col>
         </Row>
       </div>
-    </>
   );
 }
 

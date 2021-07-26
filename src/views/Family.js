@@ -7,7 +7,6 @@ import {
 
 function Family() {
   return (
-    <>
       <div className="content">
         <Row>
           <Col md="12">
@@ -19,7 +18,6 @@ function Family() {
           </Col>
         </Row>
       </div>
-    </>
   );
 }
 

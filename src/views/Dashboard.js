@@ -21,7 +21,6 @@ import {
 
 function Dashboard() {
   return (
-    <>
       <div className="content">
       <Row>
           <Col lg="3" md="6" sm="6" xs="6">
@@ -291,7 +290,6 @@ function Dashboard() {
           </Col>
         </Row>
       </div>
-    </>
   );
 }
 

@@ -23,10 +23,8 @@ import { Card, CardHeader, CardBody, CardTitle, Row, Col } from "reactstrap";
 
 function Icons() {
   return (
-    <>
       <div className="content">
       </div>
-    </>
   );
 }
 

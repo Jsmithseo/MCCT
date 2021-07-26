@@ -32,7 +32,6 @@ import {
 
 function Upgrade() {
   return (
-    <>
       <div className="content">
         <Row>
           <Col className="ml-auto mr-auto" md="8">
@@ -144,7 +143,6 @@ function Upgrade() {
           </Col>
         </Row>
       </div>
-    </>
   );
 }
 

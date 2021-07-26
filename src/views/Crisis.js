@@ -7,7 +7,7 @@ import {
 
 function Crisis() {
   return (
-    <>
+
       <div className="content">
         <Row>
           <Col md="12">
@@ -19,7 +19,6 @@ function Crisis() {
           </Col>
         </Row>
       </div>
-    </>
   );
 }
 
